@@ -6,9 +6,12 @@ A web app that uses GitHub's API to search for open source projects with open is
 
 ## How to Use
 
-* Search for any GitHub username in the username search bar. You will also have the option of searching by topic with the options of JavaScript, HTML, and CSS. 
+### Search to Find Repositories
+Search by username by entering any GitHub username in the username search bar and submitting the form. You will also have the option of searching by topic with the options of JavaScript, HTML, and CSS. Click on one of the languages in the "Search by Topic" box and repositories which feature the selected language will populate on the right-hand side of the screen.
 
-* Once the list of repositories are populated, click on any project of interest to be taken to their issues and pull requests. Click on an issue/pull request to be taken to the GitHub issue/pull request page.
+### View the Issues and Pull Requests
+
+Once the list of repositories are populated, click on any project of interest to be taken to their issues and pull requests. Click on an issue/pull request to be taken be redirected to the GitHub issue/pull request page.
 
 ## Built with 
 * JavaScript
