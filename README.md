@@ -15,7 +15,7 @@ Once the list of repositories are populated, click on any project of interest to
 
 ## Built with 
 * JavaScript
-* Server-side API
+* GitHub REST API
 
 ## Website
 https://masuamah.github.io/git-it-done/
