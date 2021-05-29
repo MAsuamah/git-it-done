@@ -11,7 +11,7 @@ Search by username by entering any GitHub username in the username search bar an
 
 ### View the Issues and Pull Requests
 
-Once the list of repositories are populated, click on any project of interest to be taken to their issues and pull requests. Click on an issue/pull request to be taken be redirected to the GitHub issue/pull request page.
+Once the list of repositories are populated, click on any project of interest to be taken to their issues and pull requests. Click on an issue/pull request to be redirected to the GitHub issue/pull request page.
 
 ## Built with 
 * JavaScript
